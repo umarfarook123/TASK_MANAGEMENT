@@ -1,0 +1,11 @@
+{
+    "userName":"admin" ,
+    "firstName":"admin" ,
+    "lastName":"main" ,
+    "email" : "admin@gmail.com",
+    "password": "admin@123",
+    "role": "admin",
+    "dob":"1999-10-19"
+
+}
+    
